@@ -1,0 +1,92 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+    font-size: 45px;
+}
+
+
+.span-color{
+    color:orange
+}
+.flex-cont{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 4%;
+}
+.img-shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 100px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato );
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    font-weight: 400;
+}
+.add-backgrnd{
+    background-image: url("Frame 59.jpg");
+    background-repeat: no-repeat;
+}
+.half-width1{
+    width: 33%;
+    margin: 4%;
+}
+.img-border{
+    border-radius: 25px;
+    
+}
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 25px;
+    padding: 15px 10px 10px 10px;
+}
+.last-part{
+    margin-left: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    margin-right: 5%;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 90px;
+    font-family: 'Josefin Sans', sans-serif ;
+    height: 200px;
+    
+}
+.HisOfPop{
+    font-family: 'Josefin Sans', sans-serif ; 
+    margin-left: 3%;
+    margin-top: 3%;
+    background-image: linear-gradient(blue,cyan);
+    width: 30%;
+    border-radius: 15px;
+    padding: 5px;
+    color: white;
+    box-shadow: 10px 5px gray;
+}
+.extra-part{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 40px;
+    padding: 15px 10px 10px 10px;
+    border-left: 6px solid blue;
+}
+.extra-part1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 40px;
+    padding: 15px 10px 10px 10px;
+    border-left: 6px solid lightsalmon;
+}
+.extra-part2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 40px;
+    padding: 15px 10px 10px 10px;
+    border-left: 6px solid gold;
+}
+.footer{
+    border: 1px solid black;
+    background-color:rebeccapurple ;
+}
